@@ -19,4 +19,5 @@ def speak_to_grandma(input)
     "HUH?! SPEAK UP, SONNY!"
   elsif input == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  end
 end
